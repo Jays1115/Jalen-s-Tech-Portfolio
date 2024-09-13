@@ -5,6 +5,12 @@
 - <b>[AWS Projects](https://github.com/Jays1115/AWS-Projects.git)</b>
 
 <h2>👨‍💻 Certifications:</h2>
+<p>
+<img src="Cert logos/CompTIA_Security_2Bce.png" width="100" height="100">
+<img src="Cert logos/AWS-Cloud-Practicioner-image.png" width="100" height="100">
+<img src="Cert logos/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-User.png" width=100" height="100">
+<img src="Cert logos/52eca70d-cb2a-4736-b41f-61d5de1faef1.png" width="100" height="100">
+</p>
 
 - <b>[Security +](https://www.credly.com/badges/798c107b-b1d4-4794-8d8c-d307d0f23266/public_url)</b>
 - <b>[AWS Certified Cloud Practioner](https://www.credly.com/badges/1fcf1d3e-47b4-4a6c-98de-2dd7e0d48080/public_url)</b>
