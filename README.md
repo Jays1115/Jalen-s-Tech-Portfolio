@@ -19,8 +19,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- <b>[linkedin](www.linkedin.com/in/jsmith-cybersecurity)</b>
-- <b>[youtube](https://www.youtube.com/@CyberwithJay)</b> <br/>
+- <b>[LinkedIn](www.linkedin.com/in/jsmith-cybersecurity)</b>
+- <b>[YouTube](https://www.youtube.com/@CyberwithJay)</b> <br/>
 
 
 <!--
