@@ -1,25 +1,21 @@
-<h1>Hi, I'm Jalen! <br/><a href="www.linkedin.com/in/jsmith-cybersecurity">Cloud Security Engineer</a>, <a href="https://www.youtube.com/@CyberwithJay">Youtuber</a></h1>
+<h1>Jalen Smith's Tech Portfolio</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[AWS Projects](https://github.com/Jays1115/AWS-Projects.git)</b>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
 <h2>👨‍💻 Certifications:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+- <b>[Security +](https://www.credly.com/badges/798c107b-b1d4-4794-8d8c-d307d0f23266/public_url)</b>
+- <b>[AWS Certified Cloud Practioner](https://www.credly.com/badges/1fcf1d3e-47b4-4a6c-98de-2dd7e0d48080/public_url)</b>
+- <b>[Splunk Core Certified User](https://www.credly.com/badges/7a3572de-e8cd-4cc9-96e9-18284067e35c/public_url)</b>
+- <b>[MSU Cybersecurity Bootcamp](https://msu.credential.getsmarter.com/6d810dc0-46cb-4425-b91d-6937dc906761)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- <b>[linkedin](www.linkedin.com/in/jsmith-cybersecurity)</b>
+- <b>[youtube](https://www.youtube.com/@CyberwithJay)</b> <br/>
 
-[youtube]: https://www.youtube.com/@CyberwithJay
-[linkedin]: www.linkedin.com/in/jsmith-cybersecurity
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
