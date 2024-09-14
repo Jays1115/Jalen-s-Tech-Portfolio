@@ -6,6 +6,7 @@ A dedicated Cyber Security Engineer with a strong foundation in cybersecurity, c
 - <b>[AWS Projects](https://github.com/Jays1115/AWS-Projects.git)</b>
 - <b>Splunk</b>
   - <b>[Vandalay Industries Is Under Attack](https://github.com/Jays1115/Vandalay-Industries-Is-Under-Attack.git)</b>
+  - <b>[VSI Is Under Attack](https://github.com/Jays1115/VSI-Is-Under-Attack.git)</b>
 
 <h2>👨‍💻 Certifications:</h2>
 <p>
