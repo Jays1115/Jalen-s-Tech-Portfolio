@@ -16,6 +16,8 @@ A dedicated Cyber Security Engineer with a strong foundation in cybersecurity, c
 <img src="Cert logos/52eca70d-cb2a-4736-b41f-61d5de1faef1.png" width="100" height="100">
 </p>
 
+<h3>Verification Links</h3>
+
 - <b>[Security +](https://www.credly.com/badges/798c107b-b1d4-4794-8d8c-d307d0f23266/public_url)</b>
 - <b>[AWS Certified Cloud Practioner](https://www.credly.com/badges/1fcf1d3e-47b4-4a6c-98de-2dd7e0d48080/public_url)</b>
 - <b>[Splunk Core Certified User](https://www.credly.com/badges/7a3572de-e8cd-4cc9-96e9-18284067e35c/public_url)</b>
