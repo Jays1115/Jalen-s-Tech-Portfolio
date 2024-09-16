@@ -25,6 +25,7 @@ A dedicated Cyber Security Engineer with a strong foundation in cybersecurity, c
 
 <h2> 🤳 Connect with me:</h2>
 
+- Email: managementjaylife@gmail.com
 - <b>[LinkedIn](www.linkedin.com/in/jsmith-cybersecurity)</b>
 - <b>[YouTube](https://www.youtube.com/@CyberwithJay)</b> <br/>
 
