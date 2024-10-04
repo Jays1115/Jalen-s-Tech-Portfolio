@@ -3,7 +3,7 @@ A dedicated Cyber Security Engineer with a strong foundation in cybersecurity, c
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[AWS Projects](https://github.com/Jays1115/AWS-Projects.git)</b>
+- <b>[AWS Projects & Labs](https://github.com/Jays1115/AWS-Projects.git)</b>
 - <b>Threat Detection & Log Analysis</b>
   - <b>[Vandalay Industries Is Under Attack](https://github.com/Jays1115/Vandalay-Industries-Is-Under-Attack.git)</b>
   - <b>[VSI Is Under Attack](https://github.com/Jays1115/VSI-Is-Under-Attack.git)</b>
