@@ -1,5 +1,5 @@
 <h1>Jalen Smith's Tech Portfolio</h1>
-A dedicated Cyber Security Engineer with a strong foundation in cybersecurity, cloud infrastructure, and IT systems administration. I specialize in securing cloud applications, optimizing network management, and implementing automation to enhance business operations. With hands-on experience in AWS, Microsoft Azure, and various security tools, I am passionate about helping organizations improve their security frameworks and protect critical assets. Always eager to learn and stay updated on the latest industry trends, I am committed to driving technological innovation and ensuring robust security solutions.
+As a Cloud Security Engineer with extensive experience in DevSecOps, I am well-equipped to enhance your organization's cloud security, streamline operations, and automate key processes. My expertise in AWS and Microsoft Azure, combined with proficiency in CI/CD practices, allows me to optimize cloud infrastructure while maintaining robust security measures. I can help your organization strengthen its security frameworks, implement cloud-native security tools, and drive continuous innovation to protect critical assets and improve operational efficiency across all levels.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
