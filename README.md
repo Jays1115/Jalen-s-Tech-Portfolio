@@ -12,6 +12,7 @@ A dedicated Cyber Security Engineer with a strong foundation in cybersecurity, c
 <p>
 <img src="Cert logos/CompTIA_Security_2Bce.png" width="100" height="100">
 <img src="Cert logos/AWS-Cloud-Practicioner-image.png" width="100" height="100">
+<img src="Cert logos/image.png" width="100" height="100">
 <img src="Cert logos/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-User.png" width=100" height="100">
 <img src="Cert logos/52eca70d-cb2a-4736-b41f-61d5de1faef1.png" width="100" height="100">
 </p>
@@ -20,6 +21,7 @@ A dedicated Cyber Security Engineer with a strong foundation in cybersecurity, c
 
 - <b>[Security +](https://www.credly.com/badges/798c107b-b1d4-4794-8d8c-d307d0f23266/public_url)</b>
 - <b>[AWS Certified Cloud Practioner](https://www.credly.com/badges/1fcf1d3e-47b4-4a6c-98de-2dd7e0d48080/public_url)</b>
+- <b>[AWS Cloud Quest: Cloud Practioner](https://www.credly.com/badges/ce8aa242-44f9-43ef-bac5-e63b19f3df1e/public_url)</b>
 - <b>[Splunk Core Certified User](https://www.credly.com/badges/7a3572de-e8cd-4cc9-96e9-18284067e35c/public_url)</b>
 - <b>[MSU Cybersecurity Bootcamp](https://msu.credential.getsmarter.com/6d810dc0-46cb-4425-b91d-6937dc906761)</b>
 
