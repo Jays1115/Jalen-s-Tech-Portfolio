@@ -8,7 +8,12 @@ As a Cloud Security Engineer with extensive experience in DevSecOps, I am well-e
   - <b>[Vandalay Industries Is Under Attack](https://github.com/Jays1115/Vandalay-Industries-Is-Under-Attack.git)</b>
   - <b>[VSI Is Under Attack](https://github.com/Jays1115/VSI-Is-Under-Attack.git)</b>
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>👨‍💻 Work Experience:</h2>
+
+- <b>Suite Xperience: IT Systems Architect<b/>
+  - <b>[IT Architecture Explained](https://github.com/Jays1115/AWS-Projects.git)</b>
+
+<h2>✅ Certifications:</h2>
 <p>
 <img src="Cert logos/CompTIA_Security_2Bce.png" width="100" height="100">
 <img src="Cert logos/AWS-Cloud-Practicioner-image.png" width="100" height="100">
