@@ -9,6 +9,7 @@ As a Cloud Security Engineer with extensive experience in DevSecOps, I am well-e
   - <b>[VSI Is Under Attack](https://github.com/Jays1115/VSI-Is-Under-Attack.git)</b>
 
 <h2>👨‍💻 Work Experience:</h2>
+
 - <b>Verizon: Cloud Computing Engineer - Job Simulation on Forage <b/>
   - <b>[Testing Cloud Application for Cloud-Native Traits](https://github.com/Jays1115/Testing-Cloud-Application.git)</b>
   - <b>[Cloud Application Security Research & Presentation](https://github.com/Jays1115/Cloud-Application-Security-Research.git)</b> 
