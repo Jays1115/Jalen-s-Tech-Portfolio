@@ -12,7 +12,10 @@ As a Cloud Security Engineer with extensive experience in DevSecOps, I am well-e
 
 - <b>Suite Xperience: IT Systems Architect<b/>
   - <b>[IT Architecture Explained](https://github.com/Jays1115/SX-IT-Architecture-Explained.git)</b>
-  - <b>[IoT Device Management](https://github.com/Jays1115/SX-IT-Architecture-Explained.git)</b>
+
+- <b>Verizon: Cloud Computing Engineer - Job Simulation on Forage <b/>
+  - <b>[Testing Cloud Application for Cloud-Native Traits](https://github.com/Jays1115/SX-IT-Architecture-Explained.git)</b>
+  - <b>[Researching Cloud Appliication Security](https://github.com/Jays1115/SX-IT-Architecture-Explained.git)</b> 
 
 <h2>✅ Certifications:</h2>
 <p>
