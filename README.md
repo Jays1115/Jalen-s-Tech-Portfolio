@@ -9,12 +9,11 @@ An IT student with a strong foundation in IT fundamentals and hands-on technical
 - <b>Threat Detection & Log Analysis</b>
   - <b>[Vandalay Industries Is Under Attack](https://github.com/Jays1115/Vandalay-Industries-Is-Under-Attack.git)</b>
   - <b>[VSI Is Under Attack](https://github.com/Jays1115/VSI-Is-Under-Attack.git)</b>
-
-<h2>👨‍💻 Work Experience:</h2>
-
-- <b>Verizon: Cloud Computing Engineer - Job Simulation on Forage <b/>
+- <b>Verizon: Cloud Computing Engineer - Job Simulation <b/>
   - <b>[Testing Cloud Application for Cloud-Native Traits](https://github.com/Jays1115/Testing-Cloud-Application.git)</b>
   - <b>[Cloud Application Security Research & Presentation](https://github.com/Jays1115/Cloud-Application-Security-Research.git)</b> 
+
+<h2>👨‍💻 Work Experience:</h2>
 
 - <b>Suite Xperience: IT Systems Architect<b/>
   - <b>[IT Architecture Explained](https://github.com/Jays1115/SX-IT-Architecture-Explained.git)</b>
