@@ -4,8 +4,10 @@ An IT student with a strong foundation in IT fundamentals and hands-on technical
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
+- <b>[IT Support Series](https://github.com/Jays1115/IT-Support-Series/tree/main)</b>
 - <b>[University of Maryland: BS of Cybersecurity Technology Projects & Labs](https://github.com/Jays1115/University-of-Maryland-BS-of-Cybersec-Tech.git)</b>
-- <b>[AWS Projects & Labs](https://github.com/Jays1115/AWS-Projects.git)</b>
+- Cloud
+  - <b>[AWS Projects & Labs](https://github.com/Jays1115/AWS-Projects.git)</b>
 - <b>Threat Detection & Log Analysis</b>
   - <b>[Vandalay Industries Is Under Attack](https://github.com/Jays1115/Vandalay-Industries-Is-Under-Attack.git)</b>
   - <b>[VSI Is Under Attack](https://github.com/Jays1115/VSI-Is-Under-Attack.git)</b>
