@@ -21,6 +21,7 @@ An IT student with a strong foundation in IT fundamentals and hands-on technical
 
 <h2>✅ Certifications:</h2>
 <p>
+<img src="Cert logos/comptia-a-ce-certification.1.png" width="100" height="100">  
 <img src="Cert logos/CompTIA_Security_2Bce.png" width="100" height="100">
 <img src="Cert logos/AWS-Cloud-Practicioner-image.png" width="100" height="100">
 <img src="Cert logos/image.png" width="100" height="100">
@@ -30,6 +31,7 @@ An IT student with a strong foundation in IT fundamentals and hands-on technical
 
 <h3>Verification Links</h3>
 
+- <b>[A+](https://www.credly.com/badges/e82f9cbb-4552-4d5a-a833-f31610ca3e64/public_url)</b>
 - <b>[Security +](https://www.credly.com/badges/798c107b-b1d4-4794-8d8c-d307d0f23266/public_url)</b>
 - <b>[AWS Certified Cloud Practioner](https://www.credly.com/badges/1fcf1d3e-47b4-4a6c-98de-2dd7e0d48080/public_url)</b>
 - <b>[AWS Cloud Quest: Cloud Practioner](https://www.credly.com/badges/ce8aa242-44f9-43ef-bac5-e63b19f3df1e/public_url)</b>
