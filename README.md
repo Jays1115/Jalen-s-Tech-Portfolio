@@ -6,6 +6,8 @@ An IT student with a strong foundation in IT fundamentals and hands-on technical
 
 - <b>[IT Support Series](https://github.com/Jays1115/IT-Support-Series/tree/main)</b>
 - <b>[University of Maryland: BS of Cybersecurity Technology Projects & Labs](https://github.com/Jays1115/University-of-Maryland-BS-of-Cybersec-Tech.git)</b>
+- Programming
+  - <b>[C++](https://github.com/Jays1115/AWS-Projects.git)</b>
 - Cloud
   - <b>[AWS Projects & Labs](https://github.com/Jays1115/AWS-Projects.git)</b>
 - <b>Threat Detection & Log Analysis</b>
